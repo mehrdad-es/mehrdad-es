@@ -1,4 +1,4 @@
-#### "A fundametnal rule in technology says that whatever can be done will be done." -Andrew Grove
+*"A fundametnal rule in technology says that whatever can be done will be done." -Andrew Grove*
 
 #### About me
 * My name is Mehrdad(you can pronounce it as "Mur"-"dad") and I am a machine learning engineer with a focus on LLM chatbots.
