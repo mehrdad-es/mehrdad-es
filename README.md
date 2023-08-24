@@ -7,5 +7,5 @@
 * In 2021, I started using Linux as my Desktop OS and my open source journey has been improving ever since.
 
 #### Other Social Media
-* <a href="https://www.linkedin.com/me-es">
+* <a href="https://www.linkedin.com/me-es">Linkedin</a>
   
