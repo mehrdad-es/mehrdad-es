@@ -1,5 +1,5 @@
 ### Tech book Quote for 2023
-*"A fundametnal rule in technology says that whatever can be done will be done." -Andrew S. Grove*
+*"A fundamental rule in technology says that whatever can be done will be done." -Andrew S. Grove*
 
 ### Notable Work
 * Leading ML for the past year at an organization of 1000+ employees.
